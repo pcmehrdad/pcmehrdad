@@ -99,10 +99,12 @@
 <br/>
 </p>
 
-<h4>🌎 Find me on</h4>
+<h4>🌎 Find me on:</h4>
 <p align="left">
 
+[![Telegram: pcmehrdad](https://img.shields.io/badge/-@pcmehrdad-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/pcmehrdad)](https://t.me/pcmehrdad)
 [![LinkedIn: pcmehrdad](https://img.shields.io/badge/-Mehrdad%20Amini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pcmehrdad/)](https://www.linkedin.com/in/pcmehrdad/)
+
 
 </p>
 
