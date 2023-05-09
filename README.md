@@ -10,7 +10,8 @@
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/github-original-wordmark.svg" alt="github" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/bitbucket-original-wordmark.svg" alt="bitbucket" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="jenkins" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/jenkins-original.svg" title="Jenkins" alt="jenkins" width="40" height="40" />
+<br/>
 
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/php-original.svg" alt="PHP" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" />
@@ -20,7 +21,7 @@
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/woocommerce-original.svg" alt="symfony" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/whmcs.png" alt="Whmcs" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/magento-original.svg" alt="magento" width="40" height="40" />
-
+<br/>
 
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/docker-compose.png" alt="docker-compose" width="40" height="40" />
@@ -31,7 +32,7 @@
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/packer-original.svg" alt="packer" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/esxi.png" alt="vmware esxi" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/proxmox.png" alt="proxmox" width="40" height="40" />
-
+<br/>
 
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
@@ -43,7 +44,7 @@
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/grafana-original.svg" title="Grafana" alt="Grafana" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/nginx-original.svg" alt="nginx" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/apache-original-wordmark.svg" alt="apache" width="40" height="40" />
-
+<br/>
 
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/debian-original-wordmark.svg" alt="debian" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40" />
@@ -53,7 +54,7 @@
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/windows-original.svg" alt="windows" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/raspberrypi-original.svg" alt="raspberry" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/alpine-linux.png" alt="alpine" width="40" height="40" />
-
+<br/>
 
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/digitalocean-original.svg" alt="digitalocean" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/aws.png" title="AWS" alt="aws" width="40" height="40" />
@@ -63,7 +64,7 @@
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/azure-original-wordmark.svg" alt="azure" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/heroku-original-wordmark.svg" alt="heroku" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/oracle-original.svg" alt="oracle-cloud" width="40" height="40" />
-
+<br/>
 
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/phpstorm-original.svg" alt="phpstorm" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/jetbrains-original.svg" alt="jetbrains" width="40" height="40" />
@@ -72,7 +73,7 @@
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/markdown-original.svg" alt="Markdown" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/atom-original.svg" alt="Atom" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/sublime-text.png" alt="Sublime Text" width="40" height="40" />
-
+<br/>
 
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/bash-original.svg" alt="bash" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/python-original-wordmark.svg" alt="python" width="40" height="40" />
@@ -82,7 +83,7 @@
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/jquery-original-wordmark.svg" alt="jquery" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/bootstrap-plain.svg" title="Bootstrap" alt="bootstrap" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/swagger.png" alt="swagger" width="40" height="40" />
-
+<br/>
 
 </p>
 
@@ -95,7 +96,7 @@
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/paint-dot-net.png" alt="Paint.Net" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/postman.png" alt="postman" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/slack-original.svg" alt="slack" width="40" height="40" />
-
+<br/>
 </p>
 
 <h4>🌎 Find me on</h4>
