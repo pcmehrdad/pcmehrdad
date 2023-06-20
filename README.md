@@ -4,7 +4,7 @@
 - My favorite is automate things!
 - I like to learning
 
-<h4>🚀 Dev tools I use</h4>
+<h4>🚀 Dev tools I used: </h4>
 <p align="left">
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/git-original-wordmark.svg" alt="git" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40" />
