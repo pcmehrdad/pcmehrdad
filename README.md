@@ -107,7 +107,3 @@
 
 
 </p>
-
-<h4>📊 Profile analytics</h4>
-
-![pcmehrdad's stats](https://github-readme-stats.vercel.app/api?username=pcmehrdad&show_icons=true&theme=default&bg_color=30,f7f7f7,d1d1d1&title_color=4b495c&text_color=707070&border_color=f0f0f0&icon_color=636363&border_radius=0&count_private=true)
