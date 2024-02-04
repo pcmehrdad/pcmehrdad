@@ -1,17 +1,18 @@
 # Hi, I'm [Mehrdad Amini](https://github.com/pcmehrdad) 👋
 ### The DevOps Guy who ♥ learning and automating stuff
+
 > Currently working in [Arzinja](https://arzinja.info) as **DevOps Engineer**
 
 <h4>🚀 Dev tools I used: </h4>
 <p align="left">
-<a href="https://www.git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/git-original-wordmark.svg" alt="Git" width="40" height="40" /></a>
-<a href="https://www.gitlab.com/" title="Gitlab"><img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40" /></a>
-<a href="https://www.github.com/" title="Github"><img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/github-original-wordmark.svg" alt="github" width="40" height="40" /></a>
-<a href="https://www.bitbucket.org/" title="Bitbucket"><img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/bitbucket-original-wordmark.svg" alt="bitbucket" width="40" height="40" /></a>
-<a href="https://www.jenkins.io/" title="Jenkins"><img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/jenkins-original.svg" title="Jenkins" alt="jenkins" width="40" height="40" /></a>
+<img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/git-original-wordmark.svg" alt="Git" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/github-original-wordmark.svg" alt="github" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/bitbucket-original-wordmark.svg" alt="bitbucket" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/jenkins-original.svg" title="Jenkins" alt="jenkins" width="40" height="40" />
 <br/>
 
-<a href="https://php.net/" title="PHP"><img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/php-original.svg" alt="PHP" width="40" height="40" /></a>
+<img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/php-original.svg" alt="PHP" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/composer-original.svg" alt="Composer" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/pcmehrdad/pcmehrdad/main/static/icons/codeigniter-plain-wordmark.svg" alt="codeigniter" width="40" height="40" />
